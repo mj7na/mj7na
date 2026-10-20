@@ -1,66 +1,74 @@
-<h1 align="left" id="cyber-title">:wave: Hello there! I'm a Cybersecurity & Computer Science Graduate</h1>
-<h3 align="left">I do Software Development, Security & Network Architecture things</h3>
+<div align="center">🛡️ MOATAZ | CYBER TECH
 
-<p align="left">
-  <a href="https://github.com/mj7na"><img src="https://komarev.com/ghpvc/?username=mj7na" alt="page views" /></a>
-  <a href="https://wa.me/967774602571"><img alt="WhatsApp" src="https://img.shields.io/badge/Contact-WhatsApp-25D366?style=flat&logo=whatsapp"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
-</p>
+Cybersecurity • Programming • Information Technology
 
-- :office: &nbsp;I'm currently looking for **Freelance & Professional Opportunities** in Cybersecurity & Development
-- :seedling: &nbsp;I’m currently building secure web apps and **cryptography GUI tools** in Python
-- :speech_balloon: &nbsp;I like to talk about **Secure Coding**, **Penetration Testing**, and **Network Security**
-- :mailbox: &nbsp;Reach me out on my **[WhatsApp]** or **[LinkedIn]**
-- :computer: &nbsp;Check out my projects below and let's secure the digital world together!
+Build. Secure. Empower.
 
-<br>
+<p>
+  <a href="https://github.com/mj7na">
+    <img src="https://img.shields.io/badge/GitHub-mj7na-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/moataz_ct/">
+    <img src="https://img.shields.io/badge/Instagram-moataz__ct-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/967774602571">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p></div>---
 
-<h2 align="left" id="cyber-tech">Favorite Tech & Stack</h2>
+👨‍💻 About Me
 
-> Tools, languages, and security frameworks that I like to work with.
+Hi! I'm Moataz Al-Junaid, interested in programming, cybersecurity, and Information Technology.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /></a>
-      <br>C# / .NET
-    </td>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /></a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /></a>
-      <br>SQL / Databases
-    </td>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
-      <br>Linux / CLI
-    </td>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#cyber-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="Web Tech" /></a>
-      <br>Web Dev
-    </td>
-  </tr>
-</table>
+I enjoy exploring security concepts, developing software, and learning how to build more secure and reliable systems.
 
-<h2 align="left">Core Expertise</h2>
+- 🛡️ Cybersecurity & Web Security
+- 💻 Programming & Software Development
+- 🌐 Networks & Systems
+- 🔍 Security Testing & Vulnerability Analysis
+- 🚀 Always learning, building, and improving.
 
-- 🛡️ **Cybersecurity & Pentesting:** Vulnerability assessment, IPsec VPN configuration, network hardening, and risk analysis.
-- 💻 **Software Engineering:** Desktop GUI development (CustomTkinter/Tkinter), C# .NET solutions, and data structures.
-- 🌐 **Networks & Systems:** Cisco Packet Tracer, routing protocols, subnetting (VLSM), and local server architectures.
+---
 
-<!-- links -->
+🧰 Technologies & Tools
 
-[WhatsApp]: https://wa.me/967774602571 "Direct WhatsApp"
-[LinkedIn]: https://linkedin.com/in/YOUR_LINKEDIN "My LinkedIn Profile"
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode,linux&theme=dark" alt="Technologies and tools"/>
+</p>---
+
+🔐 Cybersecurity Interests
+
+- SQL Injection
+- Command Injection
+- Reflected Cross-Site Scripting (XSS)
+- Unrestricted File Upload
+- Web Application Security
+- Vulnerability Analysis & Secure Coding
+
+Exploring vulnerabilities in authorized testing environments and learning how to prevent them.
+
+---
+
+📊 GitHub Statistics
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mj7na&show_icons=true&theme=tokyonight&hide_border=true&title_color=00A3FF&icon_color=00A3FF" alt="GitHub Stats"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj7na&layout=compact&theme=tokyonight&hide_border=true&title_color=00A3FF" alt="Top Languages"/><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mj7na&theme=tokyonight&hide_border=true&ring=00A3FF&fire=00A3FF" alt="GitHub Streak"/></div>---
+
+🤝 Connect With Me
+
+<div align="center"><a href="https://github.com/mj7na">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a><a href="https://www.instagram.com/moataz_ct/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+</a><a href="https://wa.me/967774602571">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
+</a><br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mj7na&style=for-the-badge&color=008CFF&label=PROFILE+VIEWS" alt="Profile Views"/></div>---
+
+<div align="center">🛡️ MOATAZ | CYBER TECH
+
+BUILD. SECURE. EMPOWER.
+
+Turning knowledge into code, and challenges into solutions.
+
+</div>
