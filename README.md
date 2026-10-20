@@ -1,6 +1,6 @@
 <div align="center">🛡️ MOATAZ | CYBER TECH
 
-Cybersecurity • Programming • Information Technology
+Programming • Software Development • Cybersecurity • IT Solutions
 
 Build. Secure. Empower.
 
@@ -18,48 +18,87 @@ Build. Secure. Empower.
 
 👨‍💻 About Me
 
-Hi! I'm Moataz Al-Junaid, interested in programming, cybersecurity, and Information Technology.
+Hi! I'm Moataz Al-Junaid, interested in programming, software development, cybersecurity, and Information Technology.
 
-I enjoy exploring security concepts, developing software, and learning how to build more secure and reliable systems.
+I enjoy developing software, solving programming problems, exploring security concepts, and building practical technology solutions.
 
-- 🛡️ Cybersecurity & Web Security
 - 💻 Programming & Software Development
+- 🛡️ Cybersecurity & Web Security
 - 🌐 Networks & Systems
-- 🔍 Security Testing & Vulnerability Analysis
-- 🚀 Always learning, building, and improving.
+- 🔍 Problem Solving & Secure Coding
+- 🚀 Continuous Learning & Practical Projects
 
 ---
 
 🧰 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode,linux&theme=dark" alt="Technologies and tools"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,vscode,linux&theme=dark" alt="Programming Languages and Development Tools"/>
 </p>---
 
-🔐 Cybersecurity Interests
+<div align="center">
+<table>
+<tr>
+<th align="center">💻 Programming Interests</th>
+<th align="center">🛡️ Cybersecurity Interests</th>
+</tr>
+<tr>
+<td valign="top">• C & C++ Programming<br/>
+• Python Programming<br/>
+• Web Development<br/>
+• Object-Oriented Programming (OOP)<br/>
+• Algorithms & Problem Solving<br/>
+• Writing Clean & Maintainable Code<br/>
+• Debugging & Software Testing
 
-- SQL Injection
-- Command Injection
-- Reflected Cross-Site Scripting (XSS)
-- Unrestricted File Upload
-- Web Application Security
-- Vulnerability Analysis & Secure Coding
+</td>
+<td valign="top">• SQL Injection<br/>
+• Command Injection<br/>
+• Reflected Cross-Site Scripting (XSS)<br/>
+• Unrestricted File Upload<br/>
+• Web Application Security<br/>
+• Secure Coding Practices<br/>
+• Vulnerability Analysis<br/>
+• Network & System Security
 
-Exploring vulnerabilities in authorized testing environments and learning how to prevent them.
+</td>
+</tr>
+</table>
+</div>Exploring vulnerabilities in authorized testing environments and learning how to identify, understand, and prevent them.
 
 ---
 
+⚙️ My Development Workflow
+
+<div align="center">Step| Approach
+🧠| Analyze the problem
+📝| Design the solution
+💻| Write clean and readable code
+🧪| Test, debug, and improve
+🔐| Review security and reliability
+🚀| Document and publish the project
+
+</div>---
+
 📊 GitHub Statistics
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mj7na&show_icons=true&theme=tokyonight&hide_border=true&title_color=00A3FF&icon_color=00A3FF" alt="GitHub Stats"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj7na&layout=compact&theme=tokyonight&hide_border=true&title_color=00A3FF" alt="Top Languages"/><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mj7na&theme=tokyonight&hide_border=true&ring=00A3FF&fire=00A3FF" alt="GitHub Streak"/></div>---
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mj7na&show_icons=true&theme=tokyonight&hide_border=true&title_color=00A3FF&icon_color=00A3FF" alt="GitHub Statistics"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj7na&layout=compact&theme=tokyonight&hide_border=true&title_color=00A3FF" alt="Most Used Languages"/><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mj7na&theme=tokyonight&hide_border=true&ring=00A3FF&fire=00A3FF" alt="GitHub Contribution Streak"/></div>---
+
+🎯 My Mission
+
+To develop efficient and secure software, solve real-world problems through programming, strengthen my cybersecurity skills, and continuously grow in the technology field.
+
+---
 
 🤝 Connect With Me
 
 <div align="center"><a href="https://github.com/mj7na">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a><a href="https://www.instagram.com/moataz_ct/">
+</a>
+<a href="https://www.instagram.com/moataz_ct/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
-</a><a href="https://wa.me/967774602571">
+</a>
+<a href="https://wa.me/967774602571">
   <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
 </a><br/><br/>
 
@@ -69,6 +108,6 @@ Exploring vulnerabilities in authorized testing environments and learning how to
 
 BUILD. SECURE. EMPOWER.
 
-Turning knowledge into code, and challenges into solutions.
+Think logically. Code creatively. Build securely.
 
 </div>
