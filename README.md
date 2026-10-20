@@ -18,7 +18,7 @@ Build. Secure. Empower.
 
 👨‍💻 About Me
 
-Hi! I'm Moataz Al-Junaid, interested in programming, software development, cybersecurity, and Information Technology.
+ interested in programming, software development, cybersecurity, and Information Technology.
 
 I enjoy developing software, solving programming problems, exploring security concepts, and building practical technology solutions.
 
